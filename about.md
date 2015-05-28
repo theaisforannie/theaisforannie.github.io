@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm Ann, and I think computers are fun. I also think that life is meaningless and enjoy making people laugh about it.
 
-Ann is super awesome.
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The site gets its name from [this interaction](https://twitter.com/mc_hankins/status/425692530718437376).
