@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer are hard and that's kind of funny
+title: Computers are hard and that's kind of funny
 ---
 
 (It's Day 2 at Recurse Center! omg!)
