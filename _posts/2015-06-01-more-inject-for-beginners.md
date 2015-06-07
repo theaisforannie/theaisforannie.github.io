@@ -3,7 +3,7 @@ layout: post
 title: more inject for beginners (part 2 of 2)
 ---
 
-Now that we know [how to use `inject` to sum an array]({% post_url 2015-05-31-inject-for-beginners %}) of numbers in Ruby, let's see what other crazy things this method can do by building a weird hash! The _actual_ results will be useless, but the breakdown will hopefully be illustrative.
+Now that we know [how to use `inject` to sum an array]({% post_url 2015-05-31-inject-for-beginners %}) of numbers in Ruby, let's talk more about how this method works by building a weird hash! The _actual_ results will be useless, but the breakdown will hopefully be illustrative.
 
 Let's gather our supplies. In order to do this, we're going to need an array of stuff and an empty hash. We can create these pretty easily:
 
