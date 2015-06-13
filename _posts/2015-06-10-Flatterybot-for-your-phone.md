@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flatterybot -- for your phone!
+title: flatterybot for your phone!
 ---
 
 The first program I ever wrote was a little bot called [Flatterybot](https://github.com/raybejjani/slackbot)[^1]. She's a sweet little thing who'll give compliments to anyone who asks.
