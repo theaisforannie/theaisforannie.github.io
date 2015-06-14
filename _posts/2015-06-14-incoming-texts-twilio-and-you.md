@@ -7,7 +7,7 @@ So you've signed up for twilio and you'd like to build an app that will customiz
 
 Before we begin, I'm glossing over Sinatra, Heroku, and Twilio's sign up and configuration. If there's anything I wish tutorials would do is let you know what they're skipping over, so there, I just did.
 
-Once you've signed up for Twilio and gone through that whole rigamarole, you can follow their [basic tutorial on responding to test messages](https://www.twilio.com/docs/quickstart/ruby/sms/hello-monkey). Your code will look something like this, only I hope with less extreme indentation (idk why it does that, that's not how i wrote it):
+Once you've signed up for Twilio and gone through that whole rigamarole, you can follow their [basic tutorial on responding to text messages](https://www.twilio.com/docs/quickstart/ruby/sms/hello-monkey). Your code will look something like this, only I hope with less extreme indentation (idk why it does that, that's not how i wrote it):
 
 {% highlight ruby %}
 require 'rubygems'
