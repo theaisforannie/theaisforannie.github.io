@@ -94,4 +94,4 @@ People should always talk about what makes them excited, is what I'm trying to s
 
 <center>-------------</center>
 
-I got nothing else, and I've got to get to work. See you guys in 50 days. <3
+I got nothing else, and I've got to get to work. Just 50 days to go. <3
