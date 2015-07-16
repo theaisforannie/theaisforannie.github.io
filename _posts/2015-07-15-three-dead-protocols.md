@@ -146,4 +146,4 @@ Having done this, it's now time to move on to meatier things. In my previous pos
 
 
 
-[^0]: Fwiw, RFC 2616, for HTTP, was published the same month, so at least some people were doing actual work in those days.
+[^0]: _Errata: The original footnote here stated that RFC 2616 was published in 1983. It was very definitely not. ([How embarrassing.](http://cdn04.cdn.justjaredjr.com/wp-content/uploads/headlines/2014/06/wardrob-batb.gif)) RFC 2616 was publish in June 1999. Thanks to [this HN comment](https://news.ycombinator.com/item?id=9895576) for pointing it out!_
