@@ -8,7 +8,7 @@ Last time on ugh blog dot jpg etc, several many thousands of internet people ([i
 An aside before we begin: There is literally no reason to ever do this at all ever. It is a stupid idea. But if you're into that, read on.
 
 <h3>
-  <div class="blink">How to Make a Blinking Commit Message</div>
+How to Make a Blinking Commit Message
 </h3>
 
 All you need is a git repo and a change to commit. (For the purposes of this "tutorial," I am assuming you write your commit messages in vim. Like, idk if it works in emacs, you can lmk, w/e.)
