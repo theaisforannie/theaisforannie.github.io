@@ -50,3 +50,12 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+  .blink {
+    animation: blink 2s steps(2, start) infinite;
+  }
+  @keyframes blink {
+    to {
+      visibility: hidden;
+    }
+  }
